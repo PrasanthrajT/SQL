@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice,ReorderLevel
+P001,Mobile,Electronics,125,144
+P002,Raymond Trouser,Clothing,350,78
+P003,Ricebag,Grocery,854,63
+P004,Laptops,Electronics,704,104
+P005,Earphones,Electronics,130,61
+P006,Freedom oil 5l,Grocery,338,114
+P007,Charger,Electronics,674,75
+P008,Cooker,Home Appliances,325,107
+P009,Rare Rabbit T shirt,Clothing,928,50
+P010,Asirwad atta,Grocery,814,104
+P011,Zudio Shirt long Sleave,Clothing,384,69
+P012,Harldiram Boondi,Grocery,881,93
+P013,Data cable,Electronics,194,98
+P014,Usb C to C pin,Electronics,467,94
+P015,Jockey Innerwear,Clothing,926,55
+P016,Washing machine,Home Appliances,649,65
+P017,Kadai,Home Appliances,180,120
+P018,Armani Jacket,Clothing,949,130
+P019,Ramraj vest,Clothing,691,74
+P020,Headset,Electronics,146,134
